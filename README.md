@@ -1,4 +1,3 @@
-
 <div align=center><h1>  🧠 Algorithm & CodingTest Study💡  </h1></div>
 <div align=right>
    
@@ -18,11 +17,8 @@
    
 | Week. | ( I Solved It! } `🐣Mirutree` || `🐤Dbsgk` { I Solved It! ) ||
 |:-----:|:----------------|:----------------|:----------------|:-----------------|
-| November 2022 <br> **2st Week** <br> `? ~ 11.13` |-|-|-|-|
-| November 2022 <br> **3st Week** <br> `11.14 ~ 11.20` |-|-|-|-|
+| November 2022 <br> **3st Week** <br> `? ~ 11.20` |-|-|-|-|
 | November 2022 <br> **4st Week** <br> `11.21 ~ 11.28` |-|-|-|-|
 | December 2022 <br> **1st Week** <br> `11.29 ~ 12.04` |-|-|-|-|
 | December 2022 <br> **2st Week** <br> `12.05 ~ 12.11` |-|-|-|-|
 | December 2022 <br> **3st Week** <br> `12.12 ~ 12.19` |-|-|-|-|
-
-   
