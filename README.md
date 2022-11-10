@@ -2,7 +2,7 @@
 <div align=center><h1>  🧠 Algorithm & CodingTest Study💡  </h1></div>
 <div align=right>
    
-[![GitHub forks](https://img.shields.io/github/forks/mirutree/AlgorithmStudy?style=social)](https://img.shields.io/github/forks/mirutree/AlgorithmStudy/fork)
+[![GitHub forks](https://img.shields.io/github/forks/mirutree/AlgorithmStudy?style=social)]([https://img.shields.io/github/forks/mirutree/AlgorithmStudy](https://github.com/mirutree/AlgorithmStudy/fork)
 </div>
    
 #### 
