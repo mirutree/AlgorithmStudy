@@ -17,7 +17,7 @@
    
 | Week. | ( I Solved It! } `🐣Mirutree` | `🐤Dbsgk` { I Solved It! ) |
 |:-----:|:----------------|:----------------|
-| December 2022 <br> **Week1** <br> `12.05 ~ 12.11` |- <br> - |- <br> - |
+| December 2022 <br> **Week1** <br> `12.05 ~ 12.11` |- [[BOJ]2480_주사위세개](https://github.com/mirutree/AlgorithmStudy/blob/main/mirutree/WEEK1/%5BBOJ%5D2480_%EC%A3%BC%EC%82%AC%EC%9C%84%EC%84%B8%EA%B0%9C.md) <br> - |- <br> - |
 | December 2022 <br> **Week2** <br> `12.12 ~ 12.18` |- <br> - |- <br> - |
 | December 2022 <br> **Week3** <br> `12.19 ~ 12.25` |- <br> - |- <br> - |
 | December 2022 <br> **Week4** <br> `12.26 ~ 01.01` |- <br> - |- <br> - |
